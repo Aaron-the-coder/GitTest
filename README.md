@@ -1,2 +1,2 @@
 # GitTest
-用来测试git操作
+Scripts for git operations
